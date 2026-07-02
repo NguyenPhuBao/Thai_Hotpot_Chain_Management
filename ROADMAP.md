@@ -41,7 +41,7 @@
 | P1-03 | **Kiểm tra tất cả null reference** | 🟡 TB | Audit toàn bộ code: `user.pointMember.xxx`, `belongsTo.storeId`, `bookData.user.xxx` |
 | P1-04 | **Kiểm tra session timeout** | 🟢 Thấp | Cấu hình `express-session` cookie maxAge, xử lý session hết hạn graceful |
 
----
+--- 
 
 ## 🟡 PHASE 2 — BỔ SUNG TÍNH NĂNG THEO SRS
 
@@ -195,29 +195,7 @@
 
 > **Tổng: 37 tasks** | 🔴 Cao: 10 | 🟡 Trung bình: 19 | 🟢 Thấp: 8
 
----
-
-## 🎯 MỤC TIÊU NGẮN HẠN (2 tuần tới)
-
-1. ✅ ~~Fix 4 bugs crash/500~~ → **Done**
-2. P2-01: Tìm kiếm món ăn cho khách hàng
-3. P2-02: Tích điểm theo tỉ lệ thực tế (10.000đ = 1đ)
-4. P1-03: Audit & fix tất cả null reference
-
-## 🎯 MỤC TIÊU TRUNG HẠN (1-2 tháng)
-
-1. P2-04: Báo cáo doanh thu hoàn chỉnh
-2. P2-05: VietQR động
-3. P3-05, P3-06, P3-07: Bảo mật cơ bản
-4. P4-08: Deploy lên cloud (Alwaysdata)
-
-## 🎯 MỤC TIÊU DÀI HẠN (3-6 tháng)
-
-1. P3-01: Làm mới giao diện khách hàng
-2. P4-01 đến P4-07: Chuẩn hóa code, test, Docker, monitoring
-3. P3-13: Real-time notification
-4. P4-09: CI/CD tự động
-
----
-
-> 📌 **Liên hệ:** File SRS gốc `SOMS_ChayXanh_Report.docx` nằm ở thư mục gốc dự án.
+### 📌 **Liên hệ:**
+> File SRS gốc `SOMS_ChayXanh_Report.docx` nằm ở thư mục gốc dự án.
+> phubao12as@gmail.com
+> 0355281276
