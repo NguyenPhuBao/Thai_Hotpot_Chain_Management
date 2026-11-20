@@ -28,7 +28,7 @@
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/vdtien2908/restaurant-chain-21082024.git
+git clone [https://github.com/NguyenPhuBao/Thai_Hotpot_Chain_Management.git]
 cd restaurant-chain-21082024
 
 # 2. Tạo file .env từ mẫu
